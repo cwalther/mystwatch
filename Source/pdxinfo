@@ -1,0 +1,7 @@
+name=Mystwatch
+author=Christian Walther
+description=Your favorite MYST puzzle, always on your wrist.
+bundleID=ch.kolleegium.mystwatch
+imagePath=images
+version=1.0
+buildNumber=0
